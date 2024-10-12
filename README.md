@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bnagladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.ibb.co.com/mvknMw8/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f.gif">
 
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsan12&label=Profile%20views&color=0e75b6&style=flat" alt="rafsan12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafsan12" alt="rafsan12" /></a> </p>

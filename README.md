@@ -35,9 +35,6 @@ src="https://img.shields.io/github/followers/Rafsan12?logo=github&style=for-the-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<a href="http://www.github.com/Rafsan12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafsan12&stroke=0891b2&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

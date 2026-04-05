@@ -1,53 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafsan Ahmed Raj
-========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Rafsan Ahmed Raj</h1>
 
-Front-end Developer
--------------------
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Russkin+Bright;Crafting+seamless+web+experiences;From+Front-End+to+Back-End;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+  </a>
+</p>
 
-* 🌍  I'm based in Sylhet, Bangladesh
-* ✉️  You can contact me at [rafsan.web.2021@gmail.com](mailto:rafsan.web.2021@gmail.com)
-* 🧠  I'm learning React.js & Next.js
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafsan12&label=Profile%20views&color=0e75b6&style=flat" alt="Rafsan12 Profile Views" />
+</p>
 
-<a href="https://www.github.com/Rafsan12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rafsan12?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/rafsan5406" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Rafsan12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rafsan-ahmed-raj-597132173" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<b>My LeetCode Stats</b>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/rafsan12?theme=dark&font=Arvo&ext=activity)
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafsan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafsan12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rafsan12&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:rafsan.web.2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rafsan12&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👨‍💻 About Me
 
+- 🔭 I’m currently working as a **Full Stack Developer** at **Russkin Bright**.
+- 🌱 I specialize in building scalable, full-stack web applications using **React**, **Next.js**, and robust backend architectures.
+- ⚙️ Proficient in modern database management, utilizing both NoSQL (**MongoDB**) and SQL (**PostgreSQL**) alongside modern ORMs like **Prisma**.
+- ✨ Passionate about creating beautiful, accessible, and highly responsive user interfaces. 
+- 🌍 Based in Bangladesh.
 
+---
 
+### 🛠️ Tech Stack & Tools
 
+**Frontend Development:**
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
 
+**Backend & Databases:**
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+</p>
 
+**Styling & UI Libraries:**
+<p>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafsan12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rafsan12's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafsan12&theme=tokyonight&hide_border=true&background=0D1117" alt="Rafsan12's Streak Stats" />
+</div>
+
+---
+<p align="center">
+  <i>Let's build something amazing together! 🚀</i>
+</p>
